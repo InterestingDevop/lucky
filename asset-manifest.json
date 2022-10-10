@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "./static/css/main.61ace70b.css",
+    "main.js": "./static/js/main.f5e7cf05.js",
+    "static/js/787.223550ad.chunk.js": "./static/js/787.223550ad.chunk.js",
+    "static/media/logo.gif": "./static/media/logo.18359c5596c5c63598ea.gif",
+    "static/media/banner.png": "./static/media/banner.efc0e3b31156634fc451.png",
+    "static/media/pic-left.png": "./static/media/pic-left.18e307dc4d7ca426a205.png",
+    "static/media/pic-top.png": "./static/media/pic-top.1b5ef2e85c4a3f42bf56.png",
+    "static/media/pic-bottom.png": "./static/media/pic-bottom.644b4ae05b2c9d40dc5e.png",
+    "static/media/pic4.png": "./static/media/pic4.384bb56e6d40c4c05107.png",
+    "static/media/pic1.png": "./static/media/pic1.f957a22f1a88832d7731.png",
+    "static/media/banner-logo.png": "./static/media/banner-logo.04a770a996ea97ac461d.png",
+    "static/media/pic2.png": "./static/media/pic2.00fd04ab5fdd71badc64.png",
+    "static/media/roadmap.png": "./static/media/roadmap.465faf935ec1415a66a4.png",
+    "static/media/pic3.png": "./static/media/pic3.675956dad2bb294225f4.png",
+    "static/media/nft-title.png": "./static/media/nft-title.1466d0783a1dd4cf1b00.png",
+    "static/media/pic-title.png": "./static/media/pic-title.b3e241115871333b763e.png",
+    "static/media/main-bg.png": "./static/media/main-bg.8000b9e69c3f05e3c728.png",
+    "static/media/uni.png": "./static/media/uni.1e2fe9c6a007e437f267.png",
+    "static/media/roadmap-title.png": "./static/media/roadmap-title.72f2be3f5b479baa719c.png",
+    "static/media/ps.png": "./static/media/ps.5b63810c04f44137539c.png",
+    "static/media/about-title.png": "./static/media/about-title.fbce0fe41e1330265555.png",
+    "static/media/logo.png": "./static/media/logo.6906e47aa8ab7d661983.png",
+    "static/media/events-title.png": "./static/media/events-title.0f3a631967e9a749fd79.png",
+    "static/media/os.png": "./static/media/os.bcf15e4483bb0eec4497.png",
+    "static/media/metamask.png": "./static/media/metamask.3a48f8911e1f5e7084eb.png",
+    "static/media/btn.png": "./static/media/btn.a7942327cd343bfcbb99.png",
+    "static/media/twitter.png": "./static/media/twitter.3a6f636dbea8cb810d9d.png",
+    "static/media/discord.png": "./static/media/discord.ab94fc89fb4d6df9c135.png",
+    "static/media/telegram.png": "./static/media/telegram.1c4853060eb16048cca6.png",
+    "static/media/eth.png": "./static/media/eth.d97a8e99d222066cd457.png",
+    "index.html": "./index.html",
+    "main.61ace70b.css.map": "./static/css/main.61ace70b.css.map",
+    "main.f5e7cf05.js.map": "./static/js/main.f5e7cf05.js.map",
+    "787.223550ad.chunk.js.map": "./static/js/787.223550ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61ace70b.css",
+    "static/js/main.f5e7cf05.js"
+  ]
+}
